@@ -2,7 +2,7 @@
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-![GitHub file size in bytes](https://img.shields.io/github/size/jankapunkt/meteor-template-loader/template-loader.js)
+![GitHub file size in bytes](https://img.shields.io/github/size/jankapunkt/meteor-template-loader/template-loader.js?style=plastic)
 ![GitHub](https://img.shields.io/github/license/jankapunkt/meteor-template-loader)
 
 
