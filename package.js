@@ -15,8 +15,8 @@ Package.onUse(function (api) {
   api.versionsFrom('1.6')
   api.use([
     'ecmascript',
-    'blaze',
-    'spacebars',
+    'blaze@2.0.0',
+    'spacebars@1.0.0',
     'reactive-var'
   ], 'client')
   api.mainModule('template-loader.js', 'client')
